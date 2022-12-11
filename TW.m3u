@@ -1,0 +1,687 @@
+#EXTM3U
+#EXTINF:-1 group-title="##台-新聞##",民視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="##台-新聞##",民視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="##台-新聞##",民視新聞 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 group-title="##台-新聞##",民視新聞 HD
+http://tv.redrainl.site:9500/live.m3u8?c=1
+#EXTINF:-1 group-title="##台-新聞##",民視新聞 HD
+http://tv.redrainl.site:9500/live.m3u8?c=01
+#EXTINF:-1 group-title="##台-新聞##",民視新聞 HD
+http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
+#EXTINF:-1 group-title="##台-新聞##",民視新聞 HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FTVCP/live
+#EXTINF:-1 group-title="##台-新聞##",民視新聞 HD
+https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
+#EXTINF:-1 group-title="##台-新聞##",台視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="##台-新聞##",台視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="##台-新聞##",台視新聞 HD
+http://tv.redrainl.site:9500/live.m3u8?c=11
+#EXTINF:-1 group-title="##台-新聞##",台視新聞 HD
+https://git.io/JgkxY
+#EXTINF:-1 group-title="##台-新聞##",台視新聞 HD
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+#EXTINF:-1 group-title="##台-新聞##",台視新聞 HD
+http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+#EXTINF:-1 group-title="##台-新聞##",台視新聞 HD
+http://140.238.155.232:9000/jmsytb.m3u8?c=26
+#EXTINF:-1 group-title="##台-新聞##",台視新聞 HD(油管)
+https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 group-title="##台-新聞##",中視新聞 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="##台-新聞##",中視新聞 HD
+https://git.io/Jgkxz
+#EXTINF:-1 group-title="##台-新聞##",中視新聞 HD
+http://tv.redrainl.site:9500/live.m3u8?c=2
+#EXTINF:-1 group-title="##台-新聞##",中視新聞 HD
+http://tv.redrainl.site:9500/live.m3u8?c=02
+#EXTINF:-1 group-title="##台-新聞##",中視新聞 HD
+http://140.238.155.232:9000/jmsytb.m3u8?c=25
+#EXTINF:-1 group-title="##台-新聞##",中視新聞 HD
+http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+#EXTINF:-1 group-title="##台-新聞##",中視新聞 HD
+http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
+#EXTINF:-1 group-title="##台-新聞##",華視新聞資訊 HD
+http://stream.dsichannel.com:80/hls/cts-news.m3u8
+#EXTINF:-1 group-title="##台-新聞##",華視新聞資訊 HD
+http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
+#EXTINF:-1 group-title="##台-新聞##",華視新聞資訊 HD
+http://stream.dsichannel.com/hls/cts-news.m3u8
+#EXTINF:-1 group-title="##台-新聞##",壹電視 HD
+http://60.251.59.180:8501/.m3u8
+#EXTINF:-1 group-title="##台-新聞##",壹電視 HD
+http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 group-title="##台-新聞##",TVBS新聞
+http://140.238.155.232:9000/jmsytb.m3u8?c=31
+#EXTINF:-1 group-title="##台-新聞##",TVBS新聞
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="##台-新聞##",TVBS新聞
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="##台-新聞##",TVBS新聞
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="##台-新聞##",東森新聞 HD
+http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 group-title="##台-新聞##",東森LIVE
+http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+#EXTINF:-1 group-title="##台-新聞##",東森 LIVE
+http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+#EXTINF:-1 group-title="##台-新聞##",東森 LIVE
+http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
+#EXTINF:-1 group-title="##台-新聞##",東森 LIVE
+http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
+#EXTINF:-1 group-title="##台-新聞##",東森財經 HD
+https://git.io/Jgkpc
+#EXTINF:-1 group-title="##台-新聞##",東森財經 HD
+http://123.51.229.65:18515/.m3u8
+#EXTINF:-1 group-title="##台-新聞##",東森財經 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="##台-新聞##",東森財經 HD
+http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+#EXTINF:-1 group-title="##台-新聞##",東森財經 HD
+http://140.238.155.232:9000/jmsytb.m3u8?c=35
+#EXTINF:-1 group-title="##台-新聞##",東森財經 HD
+http://140.238.155.232:9000/jmsytb.m3u8?c=36
+#EXTINF:-1 group-title="##台-新聞##",年代新聞
+http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
+#EXTINF:-1 group-title="##台-新聞##",年代新聞
+http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
+#EXTINF:-1 group-title="##台-新聞##",年代新聞
+http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
+#EXTINF:-1 group-title="##台-新聞##",中天新聞 HD
+http://140.238.155.232:9000/jmsytb.m3u8?c=24
+#EXTINF:-1 group-title="##台-新聞##",中天新聞 HD
+http://tv.redrainl.site:9500/live.m3u8?c=3
+#EXTINF:-1 group-title="##台-新聞##",中天新聞 HD
+http://tv.redrainl.site:9500/live.m3u8?c=03
+#EXTINF:-1 group-title="##台-新聞##",中天新聞 2(循環直播)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+#EXTINF:-1 group-title="##台-新聞##",中天新聞 HD(油管)
+https://www.youtube.com/watch?v=_QbRXRnHMVY
+#EXTINF:-1 group-title="##台-新聞##",三立新聞 LIVE
+http://60.251.59.180:8506/ch18.m3u8
+#EXTINF:-1 group-title="##台-新聞##",三立新聞 LIVE
+http://140.238.155.232:9000/jmsytb.m3u8?c=23
+#EXTINF:-1 group-title="##台-新聞##",三立iNEWS
+http://tv.redrainl.site:9500/live.m3u8?c=51
+#EXTINF:-1 group-title="##台-新聞##",三立iNEWS
+https://git.io/Jgkxj
+#EXTINF:-1 group-title="##台-新聞##",三立iNEWS
+http://140.238.155.232:9000/jmsytb.m3u8?c=22
+#EXTINF:-1 group-title="##台-新聞##",三立iNEWS
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+#EXTINF:-1 group-title="##台-新聞##",三立iNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 group-title="##台-新聞##",三立iNEWS(油管)
+https://www.youtube.com/watch?v=EB4g7wecgTI
+#EXTINF:-1 group-title="##台-新聞##",非凡新聞
+http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+#EXTINF:-1 group-title="##台-新聞##",非凡新聞
+http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+#EXTINF:-1 group-title="##台-新聞##",寰宇新聞台灣台
+https://git.io/JgkpO
+#EXTINF:-1 group-title="##台-新聞##",寰宇新聞台灣台
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+#EXTINF:-1 group-title="##台-新聞##",寰宇新聞
+http://tv.redrainl.site:9500/live.m3u8?c=22
+#EXTINF:-1 group-title="##台-新聞##",寰宇新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="##台-新聞##",寰宇新聞
+http://140.238.155.232:9000/jmsytb.m3u8?c=27
+#EXTINF:-1 group-title="##台-新聞##",鏡新聞Mnews
+http://tv.redrainl.site:9500/live.m3u8?c=28
+#EXTINF:-1 group-title="##台-新聞##",鏡新聞Mnews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 group-title="##台-新聞##",鏡新聞Mnews
+http://140.238.155.232:9000/jmsytb.m3u8?c=38
+#EXTINF:-1 group-title="##台-新聞##",原住民族電視台
+http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+#EXTINF:-1 group-title="##台-新聞##",原住民族電視台
+http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
+#EXTINF:-1 group-title="##台-新聞##",原住民族電視台
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+#EXTINF:-1 group-title="##台-新聞##",Now 直播331台
+https://api.leonardpark.dev/live/now/331
+#EXTINF:-1 group-title="##台-新聞##",Now 新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 group-title="##台-新聞##",人間衛視
+http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8http://120.84.96.195:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="##台-新聞##",人間衛視
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",BBC
+http://50.7.220.74:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
+#EXTINF:-1 group-title="##2022卡達世足專區##",SUPERSPORT 2 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2701.ts
+#EXTINF:-1 group-title="##2022卡達世足專區##",SUPERSPORT 4 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2703.ts
+#EXTINF:-1 group-title="##2022卡達世足專區##",beIN SPORTS 1 FHD
+http://dtv21.org:2082/bokidan1_795671/09aQoeqF/245936
+#EXTINF:-1 group-title="##2022卡達世足專區##",beIN SPORTS 1 HD
+http://dtv21.org:2082/bokidan1_795671/09aQoeqF/110
+#EXTINF:-1 group-title="##2022卡達世足專區##",beIN SPORTS 1 HD
+http://dtv21.org:2082/bokidan1_795671/09aQoeqF/4
+#EXTINF:-1 group-title="##2022卡達世足專區##",beIN SPORTS 1 MAX HD
+http://dtv21.org:2082/bokidan1_795671/09aQoeqF/1
+#EXTINF:-1 group-title="##2022卡達世足專區##",beIN SPORTS 1 MAX HD
+http://dtv21.org:2082/bokidan1_795671/09aQoeqF/107
+#EXTINF:-1 group-title="##2022卡達世足專區##",beIN SPORTS 1 MAX HD
+http://dtv21.org:2082/bokidan1_795671/09aQoeqF/114053
+#EXTINF:-1 group-title="##2022卡達世足專區##",beIN SPORTS 1 MAX SD
+http://dtv21.org:2082/bokidan1_795671/09aQoeqF/2541
+#EXTINF:-1 group-title="##2022卡達世足專區##",beIN SPORTS 2 MAX 
+http://dtv21.org:2082/bokidan1_795671/09aQoeqF/167202
+#EXTINF:-1 group-title="##2022卡達世足專區##",beIN SPORTS 2 MAX HD
+http://dtv21.org:2082/bokidan1_795671/09aQoeqF/108
+#EXTINF:-1 group-title="##2022卡達世足專區##",beIN SPORTS 2 MAX HD
+http://dtv21.org:2082/bokidan1_795671/09aQoeqF/2
+#EXTINF:-1 group-title="##2022卡達世足專區##",beIN SPORTS 2 MAX SD
+http://dtv21.org:2082/bokidan1_795671/09aQoeqF/2540
+#EXTINF:-1 group-title="##2022卡達世足專區##",beIN SPORTS 2 MAX Ultra 4K
+http://dtv21.org:2082/bokidan1_795671/09aQoeqF/114052
+#EXTINF:-1 group-title="##2022卡達世足專區##",愛爾達體育1台
+http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+#EXTINF:-1 group-title="##2022卡達世足專區##",愛爾達體育2台
+http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1 group-title="##2022卡達世足專區##",愛爾達體育2台
+http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+#EXTINF:-1 group-title="##2022卡達世足專區##",抖音世界盃 4K
+http://mmmitv.top/test/douyin-x.php?id=rand
+#EXTINF:-1 group-title="##2022卡達世足專區##",抖音世界盃 4K備
+http://www.mmitv.top/test/douyin-x.php?id=rand
+#EXTINF:-1 group-title="##2022卡達世足專區##",咪咕體育
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",咪咕體育4K
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",咪咕4K-HLG源-備用1
+http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",咪咕4K-HLG源-備用2
+http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://111.20.35.103:6610/yinhe/2/ch00000090990000001010/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://111.20.35.103:6610/yinhe/2/ch00000090990000001587/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://111.59.189.40:8445/tsfile/live/0113_1.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://112.19.214.90:8883/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://120.84.96.161:808/hls/105/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://120.84.96.161:808/hls/5/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://123.6.9.146/live/jz-cctv-5/live.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://159.75.85.63:828/shijiebei/sjb.php?id=3007t
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://183.63.15.42:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://218.204.51.252:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://222.240.82.92:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://39.135.138.58:18890/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://39.135.138.59:18890/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://60.10.167.88:808/hls/5/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-05體育
+http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克
+http://182.151.211.171:808/hls/18/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克
+http://39.134.115.163:8080/PLTV/88888910/224/3221226230/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克
+http://39.134.116.30:8080/PLTV/88888888/224/3221226230/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克
+http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克
+http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8?
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克
+http://39.135.138.58:18890/TVOD/88888888/224/3221226230/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克
+http://39.135.138.59:18890/PLTV/88888888/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克
+http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克
+http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克-4K
+http://live.cooltv.top/tv/aishang.php?id=cctv164k
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克-4K-IPV6
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 group-title="##2022卡達世足專區##",CCTV-16奧林匹克-4K-SDR源
+http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+#EXTINF:-1 group-title="##外語-新聞##",ABC news
+http://140.238.155.232:9000/jmsytb.m3u8?c=1
+#EXTINF:-1 group-title="##外語-新聞##",ABC news
+http://140.238.155.232:9000/jmsytb.m3u8?c=2
+#EXTINF:-1 group-title="##外語-新聞##",ANN News
+http://tv.redrainl.site:9500/live.m3u8?c=29
+#EXTINF:-1 group-title="##外語-新聞##",BBC 1
+http://198.16.64.10:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+#EXTINF:-1 group-title="##外語-新聞##",BBC 2
+http://198.16.64.10:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+#EXTINF:-1 group-title="##外語-新聞##",BBC America
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",BBC Lifestyle
+http://198.16.64.10:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
+#EXTINF:-1 group-title="##外語-新聞##",BBC WORLD NEWS
+http://198.16.64.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1 group-title="##外語-新聞##",Bloomberg News Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",Bloomberg News
+http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",Bloomberg News
+http://tv.redrainl.site:9500/live.m3u8?c=14
+#EXTINF:-1 group-title="##外語-新聞##",Bloomberg News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",Bloomberg TV Asia Live Event
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",Bloomberg TV+ 4K
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",Bloomberg
+http://140.238.155.232:9000/jmsytb.m3u8?c=10
+#EXTINF:-1 group-title="##外語-新聞##",CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",CGTN
+http://140.238.155.232:9000/jmsytb.m3u8?c=7
+#EXTINF:-1 group-title="##外語-新聞##",CNA International
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",CNA News Singapore(
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",CNA
+http://140.238.155.232:9000/jmsytb.m3u8?c=11
+#EXTINF:-1 group-title="##外語-新聞##",CNA
+http://198.16.64.10:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
+#EXTINF:-1 group-title="##外語-新聞##",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",CNA
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",CNBC
+http://198.16.64.10:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
+#EXTINF:-1 group-title="##外語-新聞##",CNC中文
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
+#EXTINF:-1 group-title="##外語-新聞##",CNC英文
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
+#EXTINF:-1 group-title="##外語-新聞##",CNN International
+http://198.16.64.10:8278/cnn_antik/playlist.m3u8?tid=MDDD5459459654594596&ct=19225&tsum=6755808cb6aeb34e391b5c7ab695342a
+#EXTINF:-1 group-title="##外語-新聞##",CNN Live
+https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",CNN
+http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+#EXTINF:-1 group-title="##外語-新聞##",CNN
+http://ip2121.com:8081/live/cnn/playlist.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",DW 德國之聲
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",DW 德國之聲
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",Euronews
+http://198.16.64.10:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
+#EXTINF:-1 group-title="##外語-新聞##",Euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",Euronews
+https://euronews.alteox.app/hls/en_stream.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",Euronews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",Fox News
+http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
+#EXTINF:-1 group-title="##外語-新聞##",Fox News
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",France 24
+http://140.238.155.232:9000/jmsytb.m3u8?c=13
+#EXTINF:-1 group-title="##外語-新聞##",France 24
+http://198.16.64.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
+#EXTINF:-1 group-title="##外語-新聞##",France 24
+http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",France 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",France 24
+http://tv.redrainl.site:9500/live.m3u8?c=13
+#EXTINF:-1 group-title="##外語-新聞##",France 24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",France 24
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",GB News UK
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",HTB Hokkaido NEWS24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",KBS KOREA
+http://140.238.155.232:9000/jmsytb.m3u8?c=14
+#EXTINF:-1 group-title="##外語-新聞##",KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 group-title="##外語-新聞##",MBC
+http://140.238.155.232:9000/jmsytb.m3u8?c=15
+#EXTINF:-1 group-title="##外語-新聞##",NBC News Now
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",NBC NEWS
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",NBC NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",NDTV
+http://140.238.155.232:9000/jmsytb.m3u8?c=19
+#EXTINF:-1 group-title="##外語-新聞##",News max
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",NHK World Japan
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live
+#EXTINF:-1 group-title="##外語-新聞##",NHK World
+http://140.238.155.232:9000/jmsytb.m3u8?c=8
+#EXTINF:-1 group-title="##外語-新聞##",NHK World
+http://218.32.47.179:8552/http/192.168.1.9:8081/hls/62/804/ch06.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",NHK
+http://123.51.229.65:18525/.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",Top News
+http://140.238.155.232:9000/jmsytb.m3u8?c=9
+#EXTINF:-1 group-title="##外語-新聞##",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",VOA
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",半島電視台
+http://140.238.155.232:9000/jmsytb.m3u8?c=6
+#EXTINF:-1 group-title="##外語-新聞##",半島電視台
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="##外語-新聞##",半島電視台
+http://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="##台-綜合##",公視
+http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
+#EXTINF:-1 group-title="##台-綜合##",公視
+http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
+#EXTINF:-1 group-title="##台-綜合##",公視
+http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
+#EXTINF:-1 group-title="##台-綜合##",公視
+http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
+#EXTINF:-1 group-title="##台-綜合##",公視
+http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
+#EXTINF:-1 group-title="##台-綜合##",公視
+http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
+#EXTINF:-1 group-title="##台-綜合##",公視
+http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
+#EXTINF:-1 group-title="##台-綜合##",公視(油管)
+https://www.youtube.com/watch?v=4Uc00FPs27M
+#EXTINF:-1 group-title="##台-綜合##",民視 HD
+http://23.237.10.66:16334
+#EXTINF:-1 group-title="##台-綜合##",民視 HD
+http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
+#EXTINF:-1 group-title="##台-綜合##",民視 HD
+http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
+#EXTINF:-1 group-title="##台-綜合##",台視 HD
+http://23.237.10.66:16344
+#EXTINF:-1 group-title="##台-綜合##",台視 HD
+http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
+#EXTINF:-1 group-title="##台-綜合##",台視 HD
+http://123.51.229.65:18543/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",台視 HD
+http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
+#EXTINF:-1 group-title="##台-綜合##",台視 HD
+http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=MEDE4406594744065947&ct=19193&tsum=079f13bae33c63d33bb128fd265e8466
+#EXTINF:-1 group-title="##台-綜合##",台視 HD
+http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
+#EXTINF:-1 group-title="##台-綜合##",台視 HD
+http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
+#EXTINF:-1 group-title="##台-綜合##",中視 HD
+http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
+#EXTINF:-1 group-title="##台-綜合##",中視 HD
+http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
+#EXTINF:-1 group-title="##台-綜合##",中視 HD
+http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
+#EXTINF:-1 group-title="##台-綜合##",華視
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 group-title="##台-綜合##",華視(HD)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 group-title="##台-綜合##",華視 HD
+http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
+#EXTINF:-1 group-title="##台-綜合##",華視 HD
+http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
+#EXTINF:-1 group-title="##台-綜合##",華視 HD
+http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
+#EXTINF:-1 group-title="##台-綜合##",華視 HD
+http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76
+#EXTINF:-1 group-title="##台-綜合##",華視 HD
+http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
+#EXTINF:-1 group-title="##台-綜合##",華視 HD
+http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
+#EXTINF:-1 group-title="##台-綜合##",民視臺灣台
+http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+#EXTINF:-1 group-title="##台-綜合##",中天綜合 HD
+http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+#EXTINF:-1 group-title="##台-綜合##",中天綜合 HD
+http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+#EXTINF:-1 group-title="##台-綜合##",中天綜合 HD
+http://23.237.10.66:16372
+#EXTINF:-1 group-title="##台-綜合##",中天綜合 HD
+http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 group-title="##台-綜合##",中天綜合 HD
+http://218.32.47.179:18526/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",八大第一 HD
+http://123.51.229.65:18539/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",八大第一
+http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+#EXTINF:-1 group-title="##台-綜合##",八大戲劇 HD
+http://218.32.47.179:18531/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",八大戲劇 HD
+http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+#EXTINF:-1 group-title="##台-綜合##",八大戲劇 HD
+http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
+#EXTINF:-1 group-title="##台-綜合##",八大戲劇 HD
+http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+#EXTINF:-1 group-title="##台-綜合##",八大戲劇 HD
+http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
+#EXTINF:-1 group-title="##台-綜合##",八大戲劇 HD
+http://198.16.64.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
+#EXTINF:-1 group-title="##台-綜合##",八大综合
+http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
+#EXTINF:-1 group-title="##台-綜合##",八大综合
+http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+#EXTINF:-1 group-title="##台-綜合##",八大綜合
+http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+#EXTINF:-1 group-title="##台-綜合##",八大綜合
+http://50.7.220.74:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
+#EXTINF:-1 group-title="##台-綜合##",八大綜合
+http://218.32.47.179:18520/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",三立戲劇
+http://198.16.64.10:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799
+#EXTINF:-1 group-title="##台-綜合##",三立戲劇
+http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+#EXTINF:-1 group-title="##台-綜合##",三立戲劇
+http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
+#EXTINF:-1 group-title="##台-綜合##",三立台灣
+http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 group-title="##台-綜合##",三立臺灣
+http://218.32.47.179:18521/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",三立臺灣
+http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?ct=17874&tid=m92ccadc4dc3718157816&tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1 group-title="##台-綜合##",三立台灣
+http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+#EXTINF:-1 group-title="##台-綜合##",三立綜合
+http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
+#EXTINF:-1 group-title="##台-綜合##",三立綜合
+http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a014596868&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+#EXTINF:-1 group-title="##台-綜合##",年代 MUCH HD
+http://218.32.47.179:18529/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",年代 MUCH HD
+http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 group-title="##台-綜合##",東風37
+http://123.51.229.65:18560/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",東風37
+http://218.32.47.179:18528/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",東森超視
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+#EXTINF:-1 group-title="##台-綜合##",東森超視
+http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+#EXTINF:-1 group-title="##台-綜合##",東森超視34.5
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="##台-綜合##",東森綜合
+http://218.32.47.179:18524/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",東森綜合
+http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+#EXTINF:-1 group-title="##台-綜合##",東森綜合
+http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
+#EXTINF:-1 group-title="##台-綜合##",東森戲劇 HD
+http://123.51.229.65:18538/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",東森戲劇 HD
+http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
+#EXTINF:-1 group-title="##台-綜合##",東森戲劇 HD
+http://60.251.33.252:18538/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",東森購物2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+#EXTINF:-1 group-title="##台-綜合##",東森購物3
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:-1 group-title="##台-綜合##",愛爾達影劇
+http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
+#EXTINF:-1 group-title="##台-綜合##",愛爾達影劇
+http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
+#EXTINF:-1 group-title="##台-綜合##",愛爾達影劇
+http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+#EXTINF:-1 group-title="##台-綜合##",靖天國際台
+http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+#EXTINF:-1 group-title="##台-綜合##",緯來育樂 HD
+http://218.32.47.179:18562/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",緯來育樂 HD
+http://218.32.47.179:18562/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 group-title="##台-綜合##",衛視中文台
+http://123.51.229.65:18504/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",衛視卡式台
+https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/277260/live_372775317_46465575_1500/index.m3u8
+#EXTINF:-1 group-title="##台-綜合##",龍華日韓
+http://123.51.229.65:18551/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",龍華日韓
+http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
+#EXTINF:-1 group-title="##台-綜合##",龍華洋片
+http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+#EXTINF:-1 group-title="##台-綜合##",龍華偶像
+http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+#EXTINF:-1 group-title="##台-綜合##",龍華戲劇
+http://123.51.229.65:18513/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",龍華戲劇
+http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+#EXTINF:-1 group-title="##台-綜合##",龍華戲劇
+http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
+#EXTINF:-1 group-title="##台-綜合##",AXN
+http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+#EXTINF:-1 group-title="##台-綜合##",AXN
+http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
+#EXTINF:-1 group-title="##台-綜合##",EYETV戲劇
+http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
+#EXTINF:-1 group-title="##台-綜合##",MOMO綜合
+http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
+#EXTINF:-1 group-title="##台-綜合##",TVBS HD
+http://140.238.155.232:9000/jmsytb.m3u8?c=29
+#EXTINF:-1 group-title="##台-綜合##",TVBS歡樂台 HD
+http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+#EXTINF:-1 group-title="##台-綜合##",TVBS歡樂台 HD
+http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
+#EXTINF:-1 group-title="##台-綜合##",幸福空間居家台
+https://git.io/JgYYF
+#EXTINF:-1 group-title="##台-綜合##",幸福空間居家台
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoo-jAsJgM8z09ddlhcBlSA/live
+#EXTINF:-1 group-title="##台-綜合##",中台灣生活網
+http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="##台-綜合##",中台灣生活網
+http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="##台-綜合##",雲林新聞網
+http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="##台-綜合##",南投新聞網
+http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="##台-綜合##",大愛1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="##台-綜合##",大愛2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="##台-綜合##",大愛電視
+http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
+#EXTINF:-1 group-title="##台-綜合##",大愛電視
+http://123.51.229.65:18567/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",大愛電視
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+#EXTINF:-1 group-title="##台-綜合##",大愛電視
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+#EXTINF:-1 group-title="##台-綜合##",大愛電視
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+#EXTINF:-1 group-title="##台-綜合##",大愛電視
+http://198.16.64.10:8278/daai_twn/playlist.m3u8?tid=MF5F4357730143577301&ct=19225&tsum=10c092424b1c12259444b68ad663c9eb
+#EXTINF:-1 group-title="##台-綜合##",大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="##台-綜合##",人間衛視
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+#EXTINF:-1 group-title="##台-綜合##",人間衛視
+http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
+#EXTINF:-1 group-title="##台-綜合##",人間衛視
+http://123.51.229.65:18561/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",臺灣番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="##台-綜合##",臺灣番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="##台-綜合##",Viva 美好購物1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+#EXTINF:-1 group-title="##台-綜合##",Viva 美好購物2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+#EXTINF:-1 group-title="##台-綜合##",國會議事轉播
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+#EXTINF:-1 group-title="##台-綜合##",國會議事轉播
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+#EXTINF:-1 group-title="##台-綜合##",MOMO購物1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+#EXTINF:-1 group-title="##台-綜合##",MOMO購物2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+#EXTINF:-1 group-title="##台-綜合##",EF運通
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+#EXTINF:-1 group-title="##台-綜合##",信大電視台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+#EXTINF:-1 group-title="##台-綜合##",信吉電視台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+#EXTINF:-1 group-title="##台-綜合##",唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="##台-綜合##",海豚综合台
+http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="##台-綜合##",美麗人生
+http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="##台-綜合##",GOOD TV 好消息
+http://123.51.229.65:18507/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",GOOD TV CH1 綜合台
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 group-title="##台-綜合##",GOOD TV CH2 真理台
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 group-title="##台-綜合##",The K-POP
+https://git.io/JgYAE
+#EXTINF:-1 group-title="##台-綜合##",Sexy K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 group-title="##台-綜合##",Sexy K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
