@@ -1,0 +1,101 @@
+{
+  "channelList": [
+    {
+      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
+      "name": "台視"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
+      "name": "台視新聞"
+    },
+    {
+      "url": "http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv056",
+      "name": "台視財經台"
+    },
+    {
+      "url": "https://www.youtube.com/c/twctvnews/live",
+      "name": "中視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
+      "name": "華視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
+      "name": "民視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
+      "name": "公共電視"
+    },
+    {
+      "url": "https://www.youtube.com/live/vr3XyVCR4T0",
+      "name": "中天新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
+      "name": "TVBS新聞"
+    },
+    {
+      "url": "https://www.youtube.com/user/newsebc/live",
+      "name": "東森新聞"
+    },
+    {
+      "url": "https://www.youtube.com/user/57ETFN/live",
+      "name": "東森財經"
+    },
+    {
+      "url": "https://www.youtube.com/user/ettv32/live",
+      "name": "東森綜合2台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
+      "name": "三立iNEWS新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MV9mI0GChwo",
+      "name": "三立新聞"
+    },
+    {
+      "url": "http://61.221.215.25:8800/hls/41/index.m3u8",
+      "name": "三立戲劇"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
+      "name": "鏡新聞"
+    },
+    {
+      "url": "http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8",
+      "name": "年代新聞"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
+      "name": "非凡新聞",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
+      "name": "寰宇新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
+      "name": "寰宇新聞台灣台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7G62ua4RruQ",
+      "name": "寰宇財經台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
+      "name": "大愛一臺"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
+      "name": "大愛二臺"
+    },
+    {
+      "url": "http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8",
+      "name": "HBO"
+    }
+  ]
+}
