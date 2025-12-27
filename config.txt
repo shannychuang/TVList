@@ -9,10 +9,6 @@
       "name": "台視新聞"
     },
     {
-      "url": "http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv056",
-      "name": "台視財經台"
-    },
-    {
       "url": "https://www.youtube.com/c/twctvnews/live",
       "name": "中視新聞"
     },
