@@ -90,8 +90,17 @@
       "name": "HBO"
     },
     {
+      "url": "http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1183.m3u8",
+      "name": "緯來電影台"
+    },
+    {
       "url": "http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1026.m3u8",
       "name": "緯來日本台"
+    },
+    {
+      "url": "http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8",
+      "name": "八大綜合台"
     }
   ]
 }
+
