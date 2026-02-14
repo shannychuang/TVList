@@ -5,11 +5,11 @@
       "name": "台視"
     },
     {
-      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
+      "url": "https://www.youtube.com/@TTV_NEWS/live",
       "name": "台視新聞"
     },
     {
-      "url": "https://www.youtube.com/c/twctvnews/live",
+      "url": "https://www.youtube.com/chinatvnews/live",
       "name": "中視新聞"
     },
     {
@@ -17,7 +17,7 @@
       "name": "華視新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
+      "url": "https://www.youtube.com/@FTV_News/live",
       "name": "民視新聞"
     },
     {
@@ -25,12 +25,16 @@
       "name": "公共電視"
     },
     {
-      "url": "https://www.youtube.com/live/vr3XyVCR4T0",
+      "url": "https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live",
       "name": "中天新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
+      "url": "https://www.youtube.com/user/TVBS/live",
       "name": "TVBS新聞"
+    },
+    {
+      "url": "https://www.youtube.com/@tvbschannel/live",
+      "name": "TVBS"
     },
     {
       "url": "https://www.youtube.com/user/newsebc/live",
@@ -41,7 +45,7 @@
       "name": "東森財經"
     },
     {
-      "url": "https://www.youtube.com/user/ettv32/live",
+      "url": "https://www.youtube.com/ettv32/live",
       "name": "東森綜合2台"
     },
     {
@@ -49,11 +53,11 @@
       "name": "三立iNEWS新聞"
     },
     {
-      "url": "https://www.youtube.com/@setnews/live",
+      "url": "https://www.youtube.com/live/QsGswQvRmtU",
       "name": "三立新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
+      "url": "https://www.youtube.com/@mnews-tw/live",
       "name": "鏡新聞"
     },
     {
@@ -106,11 +110,12 @@
       "name": "東森超視"
     },
     {
-      "url": "http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8",
+      "url": "http://220.134.196.147:8503/http/60.251.39.91:8081/hls/65/807/ch19.m3u8",
       "name": "三立都會台"
     }
   ]
 }
+
 
 
 
