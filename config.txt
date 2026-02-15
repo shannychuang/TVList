@@ -33,7 +33,7 @@
       "name": "TVBS新聞"
     },
     {
-      "url": "https://www.youtube.com/@tvbschannel/live",
+      "url": "https://www.youtube.com/watch?v=WAUECPu9EOw",
       "name": "TVBS"
     },
     {
@@ -143,6 +143,7 @@
     }
   ]
 }
+
 
 
 
