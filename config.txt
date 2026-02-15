@@ -140,9 +140,14 @@
     {
       "url": "http://211.23.114.106:8507/http/60.251.39.91:8081/hls/70/812/ch38.m3u8",
       "name": "TLC"
+    },
+    {
+      "url": "http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1014.m3u8",
+      "name": "東森新聞測試"
     }
   ]
 }
+
 
 
 
