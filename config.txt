@@ -25,6 +25,10 @@
       "name": "公共電視"
     },
     {
+      "url": "https://www.youtube.com/@ptstaigitai/live",
+      "name": "公視台語台"
+    },
+    {
       "url": "https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live",
       "name": "中天新聞"
     },
@@ -147,6 +151,7 @@
     }
   ]
 }
+
 
 
 
