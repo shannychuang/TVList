@@ -54,7 +54,7 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
-      "name": "三立iNEWS新聞"
+      "name": "三立iNEWS"
     },
     {
       "url": "https://www.youtube.com/live/QsGswQvRmtU",
@@ -142,6 +142,10 @@
       "name": "緯來育樂"
     },
     {
+      "url": "http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8",
+      "name": "緯來綜合"
+    },
+    {
       "url": "http://211.23.114.106:8507/http/60.251.39.91:8081/hls/70/812/ch38.m3u8",
       "name": "TLC"
     },
@@ -151,6 +155,7 @@
     }
   ]
 }
+
 
 
 
