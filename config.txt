@@ -29,7 +29,7 @@
       "name": "公視台語台"
     },
     {
-      "url": "https://www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw/live",
+      "url": "https://www.youtube.com/watch?v=vr3XyVCR4T0",
       "name": "中天新聞"
     },
     {
@@ -171,6 +171,7 @@
     }
   ]
 }
+
 
 
 
