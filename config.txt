@@ -33,7 +33,7 @@
       "name": "中天新聞"
     },
     {
-      "url": "https://www.youtube.com/user/TVBS/live",
+      "url": "https://www.youtube.com/@TVBSNEWS01/live",
       "name": "TVBS新聞"
     },
     {
@@ -171,6 +171,7 @@
     }
   ]
 }
+
 
 
 
