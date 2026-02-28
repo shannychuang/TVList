@@ -57,7 +57,7 @@
       "name": "三立iNEWS"
     },
     {
-      "url": "https://www.youtube.com/live/QsGswQvRmtU",
+      "url": "https://www.youtube.com/watch?v=QsGswQvRmtU",
       "name": "三立新聞"
     },
     {
@@ -171,6 +171,7 @@
     }
   ]
 }
+
 
 
 
