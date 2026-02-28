@@ -5,7 +5,7 @@
       "name": "台視"
     },
     {
-      "url": "https://www.youtube.com/@TTV_NEWS/live",
+      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
       "name": "台視新聞"
     },
     {
@@ -171,6 +171,7 @@
     }
   ]
 }
+
 
 
 
