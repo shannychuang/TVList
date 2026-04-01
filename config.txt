@@ -262,8 +262,20 @@
       "name": "靖天歡樂"
     },
     {
+      "url": "https://cdn8.163189.xyz/163189/lhjd",
+      "name": "龍華經典"
+    },
+    {
       "url": "https://cdn8.163189.xyz/163189/lhxj",
       "name": "龍華戲劇"
+    },
+    {
+      "url": "https://cdn8.163189.xyz/163189/lhox",
+      "name": "龍華偶像"
+    },
+    {
+      "url": "https://cdn8.163189.xyz/163189/lhrh",
+      "name": "龍華日韓"
     },
     {
       "url": "http://iptv.4666888.xyz/iptv2A.php?id=45",
