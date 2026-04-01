@@ -238,6 +238,10 @@
       "name": "靖天電影"
     },
     {
+      "url": "https://tv.iill.top/4gtv/4gtv-4gtv058",
+      "name": "靖天戲劇"
+    },
+    {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv047",
       "name": "靖天日本"
     },
