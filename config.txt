@@ -49,10 +49,6 @@
       "name": "東森財經"
     },
     {
-      "url": "https://www.youtube.com/ettv32/live",
-      "name": "東森綜合2台"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
       "name": "三立iNEWS"
     },
@@ -154,6 +150,14 @@
       "name": "東風衛視"
     },
     {
+      "url": "https://t.freetv.fun/live/dong-sen-zong-he.m3u8",
+      "name": "東森綜合"
+    },
+    {
+      "url": "https://www.youtube.com/ettv32/live",
+      "name": "東森綜合2台"
+    },
+    {
       "url": "http://220.134.196.147:8539/http/60.251.39.91:8081/hls/64/806/ch14.m3u8",
       "name": "東森超視"
     },
@@ -188,6 +192,10 @@
     {
       "url": "http://220.134.196.147:8509/http/60.251.39.91:8081/hls/69/811/ch35.m3u8",
       "name": "緯來電影"
+    },
+    {
+      "url": "http://iptv.4666888.xyz/iptv2A.php?id=42",
+      "name": "靖洋戲劇"
     },
     {
       "url": "http://220.134.196.147:8515/http/60.251.39.91:8081/hls/72/814/ch45.m3u8",
