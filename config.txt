@@ -298,6 +298,10 @@
       "name": "龍華洋片"
     },
     {
+      "url": "https://tv.iill.top/4gtv/4gtv-4gtv049",
+      "name": "采昌影劇"
+    },
+    {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv011",
       "name": "影迷數位電影"
     },
