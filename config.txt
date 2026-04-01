@@ -222,6 +222,22 @@
       "name": "靖天卡通"
     },
     {
+      "url": "https://tv.iill.top/4gtv/4gtv-4gtv062",
+      "name": "靖天育樂"
+    },
+    {
+      "url": "https://tv.iill.top/4gtv/4gtv-4gtv055",
+      "name": "靖天映畫"
+    },
+    {
+      "url": "https://tv.iill.top/4gtv/4gtv-4gtv063",
+      "name": "靖天國際"
+    },
+    {
+      "url": "https://tv.iill.top/4gtv/4gtv-4gtv065",
+      "name": "靖天資訊"
+    },
+    {
       "url": "https://cdn8.163189.xyz/163189/lhxj",
       "name": "龍華戲劇"
     },
