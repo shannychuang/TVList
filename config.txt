@@ -98,6 +98,10 @@
       "name": "HBO"
     },
     {
+      "url": "http://iptv.4666888.xyz/iptv2A.php?id=51",
+      "name": "台視綜合"
+    },
+    {
       "url": "http://74.91.26.218:82/live/ctv.m3u8",
       "name": "中視"
     },
@@ -264,6 +268,10 @@
     {
       "url": "http://iptv.4666888.xyz/iptv2A.php?id=45",
       "name": "龍華電影"
+    },
+    {
+      "url": "http://iptv.4666888.xyz/iptv2A.php?id=60",
+      "name": "龍華洋片"
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv011",
