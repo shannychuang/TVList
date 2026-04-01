@@ -146,6 +146,14 @@
       "name": "八大戲劇"
     },
     {
+      "url": "https://tv.iill.top/4gtv/4gtv-4gtv034",
+      "name": "八大精彩"
+    },
+    {
+      "url": "https://tv.iill.top/4gtv/4gtv-4gtv039",
+      "name": "八大綜藝"
+    },
+    {
       "url": "http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8",
       "name": "中天綜合"
     },
