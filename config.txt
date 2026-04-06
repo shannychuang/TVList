@@ -57,6 +57,10 @@
       "name": "三立新聞"
     },
     {
+      "url": "https://smt.pixman.us.ci/proxy/bc7685dc95fd47bd.m3u8",
+      "name": "年代新聞"
+    },
+    {
       "url": "https://www.youtube.com/@mnews-tw/live",
       "name": "鏡新聞"
     },
@@ -130,18 +134,6 @@
       "name": "公視戲劇"
     },
     {
-      "url": "https://tv.iill.top/4gtv/4gtv-4gtv039",
-      "name": "八大綜合"
-    },
-    {
-      "url": "https://tv.iill.top/4gtv/4gtv-4gtv034",
-      "name": "八大精彩"
-    },
-    {
-      "url": "https://tv.iill.top/4gtv/4gtv-4gtv039",
-      "name": "八大綜藝"
-    },
-    {
       "url": "https://t.freetv.fun/live/dong-sen-zong-he.php",
       "name": "東森綜合"
     },
@@ -154,6 +146,14 @@
       "name": "東森超視"
     },
     {
+      "url": "https://smt.pixman.us.ci/proxy/ff77d549ea9b89db.m3u8",
+      "name": "東森電影"
+    },
+    {
+      "url": "https://smt.pixman.us.ci/proxy/f9cf8471c7491eb9.m3u8",
+      "name": "東森洋片"
+    },
+    {
       "url": "rtmp://f13h.mine.nu/sat/tv771",
       "name": "緯來日本"
     },
@@ -164,6 +164,26 @@
     {
       "url": "rtmp://f13h.mine.nu/sat/tv721",
       "name": "緯來體育"
+    },
+    {
+      "url": "https://smt.pixman.us.ci/proxy/fcd99f4f15ad3077.m3u8",
+      "name": "緯來電影"
+    },
+    {
+      "url": "http://iptv.4666888.xyz/iptv2A.php?id=49",
+      "name": "momo親子"
+    },
+    {
+      "url": "https://tv.iill.top/4gtv/4gtv-4gtv039",
+      "name": "八大綜合"
+    },
+    {
+      "url": "https://tv.iill.top/4gtv/4gtv-4gtv034",
+      "name": "八大精彩"
+    },
+    {
+      "url": "https://tv.iill.top/4gtv/4gtv-4gtv039",
+      "name": "八大綜藝"
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-live207",
@@ -262,6 +282,10 @@
       "name": "amc電影"
     },
     {
+      "url": "https://smt.pixman.us.ci/proxy/24add3f950a39908.m3u8",
+      "name": "AXN"
+    },
+    {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv076",
       "name": "亞洲旅遊"
     },
@@ -280,10 +304,6 @@
     {
       "url": "https://tv.iill.top/4gtv/4gtv-live030",
       "name": "Live互動英語"
-    },
-    {
-      "url": "http://iptv.4666888.xyz/iptv2A.php?id=49",
-      "name": "momo親子"
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-live105",
