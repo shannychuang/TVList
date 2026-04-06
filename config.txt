@@ -133,7 +133,7 @@
       "url": "https://tv.iill.top/4gtv/litv-ftv07",
       "name": "民視旅遊",
       "ytdl-options": {
-          "external_downloader": {'http': 'ffmpeg'}
+          "external_downloader": {'default': 'ffmpeg'}
       }
     },
     {
