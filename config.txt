@@ -157,10 +157,6 @@
       "name": "東森電影"
     },
     {
-      "url": "https://smt.pixman.us.ci/proxy/f9cf8471c7491eb9.m3u8",
-      "name": "東森洋片"
-    },
-    {
       "url": "rtmp://f13h.mine.nu/sat/tv771",
       "name": "緯來日本"
     },
@@ -171,10 +167,6 @@
     {
       "url": "rtmp://f13h.mine.nu/sat/tv721",
       "name": "緯來體育"
-    },
-    {
-      "url": "https://smt.pixman.us.ci/proxy/fcd99f4f15ad3077.m3u8",
-      "name": "緯來電影"
     },
     {
       "url": "http://iptv.4666888.xyz/iptv2A.php?id=49",
