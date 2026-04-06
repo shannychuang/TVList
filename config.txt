@@ -142,6 +142,10 @@
       "name": "八大綜藝"
     },
     {
+      "url": "https://t.freetv.fun/live/dong-sen-zong-he.php",
+      "name": "東森綜合"
+    },
+    {
       "url": "https://www.youtube.com/ettv32/live",
       "name": "東森綜合2台"
     },
