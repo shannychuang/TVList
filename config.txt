@@ -146,6 +146,22 @@
       "name": "東森綜合2台"
     },
     {
+      "url": "rtmp://f13h.mine.nu:1935/sat/tv331",
+      "name": "東森超視"
+    },
+    {
+      "url": "rtmp://f13h.mine.nu/sat/tv771",
+      "name": "緯來日本"
+    },
+    {
+      "url": "rtmp://f13h.mine.nu/sat/tv701",
+      "name": "緯來育樂"
+    },
+    {
+      "url": "rtmp://f13h.mine.nu/sat/tv721",
+      "name": "緯來體育"
+    },
+    {
       "url": "https://tv.iill.top/4gtv/4gtv-live207",
       "name": "三立綜合"
     },
@@ -278,8 +294,16 @@
       "name": "DreamWorks"
     },
     {
-      "url": "rtmp://f13h.mine.nu/sat/tv721",
-      "name": "緯來體育"
+      "url": "rtmp://f13h.mine.nu/sat/md051",
+      "name": "愛爾達體育1"
+    },
+    {
+      "url": "rtmp://f13h.mine.nu/sat/md011",
+      "name": "愛爾達體育2"
+    },
+    {
+      "url": "rtmp://f13h.mine.nu/sat/md041",
+      "name": "愛爾達體育3"
     }
   ]
 }
