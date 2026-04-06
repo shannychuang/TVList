@@ -146,7 +146,7 @@
       "name": "東森超視"
     },
     {
-      "url": "https://smt.pixman.us.ci/proxy/ff77d549ea9b89db.m3u8",
+      "url": "http://iptv.4666888.xyz/iptv2A.php?id=48",
       "name": "東森電影"
     },
     {
