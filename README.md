@@ -4,6 +4,7 @@ https://github.com/lisb0910/tv/blob/main/liveTVList.txt
 https://raw.githubusercontent.com/jackell777/jackell777.github.io/fa8f1249b67cff645628b6e08fa6f802d430afbb/list.txt  
 https://github.com/CCSH/IPTV/blob/main/live_lite.txt  
 https://github.com/ngo5/IPTV  
+https://t.freetv.fun/m3u/taiwan_original.txt  
 https://tonkiang.us/
 
 影視TVBOX  
