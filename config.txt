@@ -292,18 +292,6 @@
     {
       "url": "https://tv.iill.top/4gtv/4gtv-live017",
       "name": "DreamWorks"
-    },
-    {
-      "url": "rtmp://f13h.mine.nu/sat/md051",
-      "name": "愛爾達體育1"
-    },
-    {
-      "url": "rtmp://f13h.mine.nu/sat/md011",
-      "name": "愛爾達體育2"
-    },
-    {
-      "url": "rtmp://f13h.mine.nu/sat/md041",
-      "name": "愛爾達體育3"
     }
   ]
 }
