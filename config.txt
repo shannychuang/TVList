@@ -123,7 +123,10 @@
     },
     {
       "url": "https://t.freetv.fun/live/min-shi-ying-ju.m3u8",
-      "name": "民視影劇"
+      "name": "民視影劇",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "http://iptv.4666888.xyz/iptv2A.php?id=46",
