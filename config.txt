@@ -123,10 +123,7 @@
     },
     {
       "url": "https://t.freetv.fun/live/min-shi-ying-ju.m3u8",
-      "name": "民視影劇",
-      "ytdl-options": {
-          "external_downloader": {'default': 'ffmpeg'}
-      }
+      "name": "民視影劇"
     },
     {
       "url": "http://iptv.4666888.xyz/iptv2A.php?id=46",
@@ -177,23 +174,38 @@
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv039",
-      "name": "八大綜合"
+      "name": "八大綜合",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv034",
-      "name": "八大精彩"
+      "name": "八大精彩",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv039",
-      "name": "八大綜藝"
+      "name": "八大綜藝",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-live207",
-      "name": "三立綜合"
+      "name": "三立綜合",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv068",
-      "name": "TVBS歡樂"
+      "name": "TVBS歡樂",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "http://iptv.4666888.xyz/iptv2A.php?id=47",
@@ -205,7 +217,10 @@
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv057",
-      "name": "靖洋卡通"
+      "name": "靖洋卡通",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://t.freetv.fun/live/jing-tian-dian-ying.m3u8",
@@ -221,31 +236,52 @@
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv047",
-      "name": "靖天日本"
+      "name": "靖天日本",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv044",
-      "name": "靖天卡通"
+      "name": "靖天卡通",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv062",
-      "name": "靖天育樂"
+      "name": "靖天育樂",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv063",
-      "name": "靖天國際"
+      "name": "靖天國際",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv065",
-      "name": "靖天資訊"
+      "name": "靖天資訊",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv046",
-      "name": "靖天綜合"
+      "name": "靖天綜合",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv054",
-      "name": "靖天歡樂"
+      "name": "靖天歡樂",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://cdn8.163189.xyz/163189/lhjd",
@@ -285,15 +321,24 @@
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv076",
-      "name": "亞洲旅遊"
+      "name": "亞洲旅遊",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv018",
-      "name": "達文西"
+      "name": "達文西",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-4gtv070",
-      "name": "愛爾達娛樂"
+      "name": "愛爾達娛樂",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://t.freetv.fun/live/eltasheng-huo-lu-you-5.m3u8",
@@ -301,15 +346,24 @@
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-live030",
-      "name": "Live互動英語"
+      "name": "Live互動英語",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-live105",
-      "name": "尼克兒童"
+      "name": "尼克兒童",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "https://tv.iill.top/4gtv/4gtv-live032",
-      "name": "Nick Jr."
+      "name": "Nick Jr.",
+      "ytdl-options": {
+          "external_downloader": {'default': 'ffmpeg'}
+      }
     },
     {
       "url": "http://iptv.4666888.xyz/iptv2A.php?id=40",
