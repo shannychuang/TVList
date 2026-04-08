@@ -187,13 +187,6 @@
       }
     },
     {
-      "url": "https://tv.iill.top/4gtv/4gtv-4gtv039",
-      "name": "八大綜藝",
-      "ytdl-options": {
-          "external_downloader": {'default': 'ffmpeg'}
-      }
-    },
-    {
       "url": "https://tv.iill.top/4gtv/4gtv-live207",
       "name": "三立綜合",
       "ytdl-options": {
